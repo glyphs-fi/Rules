@@ -1,2 +1,2 @@
 # Rules
-The Glyphs &amp; Alphabets rules
+The Glyphs & Alphabets rules
