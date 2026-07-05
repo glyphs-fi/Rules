@@ -1,0 +1,38 @@
+{
+	"embeds": [
+		{
+			"title": "Check Glyphs & Alphabets presence!",
+			"description": "G&A is not only on Discord, we're a community that stretches out many platforms. We create and post content that we think you type & letter-loving people would enjoy!\nPlease consider following us on the accounts below!",
+			"color": 10996055,
+			"image": {
+				"url": "https://media.discordapp.net/attachments/850470847403786271/1010904887397208164/infobanner.png?ex=6a4a5d8a&is=6a490c0a&hm=7e48bc0b1113cc51c5296ba9445675c69155cbf7c967fcdbe27c95daec574197&"
+			},
+			"footer": {
+				"text": "Glyphs & Alphabets",
+				"icon_url": "https://media.discordapp.net/attachments/850490628945346641/850490669000687666/GA_icon.png?ex=6a4ad0a8&is=6a497f28&hm=b6206ee4d273ba71ee7c7185231833a5e9ef17d04c8740308b644f13a37ec749&"
+			},
+			"fields": [
+				{
+					"name": "G&A Tumblr blog",
+					"value": "Full of shitposts, screenshots from this server, & more G&A content\nhttps://glyphs-fi.tumblr.com/",
+					"inline": true
+				},
+				{
+					"name": "Daily Ligatures Twitter",
+					"value": "A G&A page that barfs out ligatures (semi-)daily!\nhttps://twitter.com/glyphs_fi/",
+					"inline": true
+				},
+				{
+					"name": "r/Typography",
+					"value": "G&A's officially partnered subreddit where you'll find other typography content!\nhttps://reddit.com/r/typography/",
+					"inline": true
+				},
+				{
+					"name": "G&A Instagram",
+					"value": "[WIP] https://www.instagram.com/glyphs.fi/",
+					"inline": false
+				}
+			]
+		}
+	]
+}
