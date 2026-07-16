@@ -5,7 +5,7 @@
 - Do not instigate arguments or shit-stir. This includes antagonisation, rage baiting, etc.
 - Do not discriminate or be bigoted against any party. This includes not using slurs, even if you belong to a community which has reclaimed a slur (this excludes “queer” as it has been widely accepted and made commonplace as a label, of course context may depend here)
 - Do not use mental conditions and illnesses as pejoratives or as negative descriptors. Avoid terms derived from such
-- We are here to celebrate human creativity, so:
+- We are here to celebrate _human_ creativity, so:
   - Do not (knowingly) post generative AI images, text or code (or links to such)
   - Do not feed user content from this server into generative AI for any reason.
 ​  - Answer questions in good-faith. Do not redirect to generative AI tools
