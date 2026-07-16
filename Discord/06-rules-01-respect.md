@@ -5,9 +5,12 @@
 - Do not instigate arguments or shit-stir. This includes antagonisation, rage baiting, etc.
 - Do not discriminate or be bigoted against any party. This includes not using slurs, even if you belong to a community which has reclaimed a slur (this excludes “queer” as it has been widely accepted and made commonplace as a label, of course context may depend here)
 - Do not use mental conditions and illnesses as pejoratives or as negative descriptors. Avoid terms derived from such
-- Do not (knowingly) post generative AI images or text, & do not feed user content from this server into generative AI for any reason. We are here to celebrate human creativity
-​
-- Answer questions in good-faith. Do not redirect to generative AI tools, & do not post nothing responses such as “idk” unless you were specifically asked
+- We are here to celebrate human creativity, so:
+  - Do not (knowingly) post generative AI images, text or code (or links to such)
+  - Do not feed user content from this server into generative AI for any reason.
+​  - Answer questions in good-faith. Do not redirect to generative AI tools
+
+- Do not post nothing responses to questions such as “idk” unless you were specifically asked
 - Be open to answers and learning. If you ask a question, expect you will get answers which may contradict your own knowledge or experience
 - Avoid disrupting ongoing conversations
 - Avoid typing quirks which would impact the use of a screenreader. If you use a typing quirk, please look into how different screen readers may pronounce your messages
