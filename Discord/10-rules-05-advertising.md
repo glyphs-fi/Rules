@@ -5,3 +5,4 @@
 - Do not recommend applications, services, or platforms unless someone asks for such
 - Do not post server invites in server. If someone asks for an invite to a server, send it via DMs
 - Advertising any typefaces is fine as long as they're not from a business that mass-produces fonts & similar assets
+- Active members of the community are encouraged to share their work, even if it's something like a video upload, font release, etc., but please do not use this server exclusively for this.
